@@ -1,0 +1,181 @@
+﻿Device_Name,Region,Sales_Month,Units_Sold,Revenue_USD
+StentX,Asia-Pacific,1/31/2022,502,587340
+StentX,North America,2/28/2022,588,540960
+StentX,North America,3/31/2022,614,606018
+StentX,Asia-Pacific,4/30/2022,759,797709
+StentX,Asia-Pacific,5/31/2022,708,819156
+StentX,Latin America,6/30/2022,693,756063
+StentX,North America,7/31/2022,560,515760
+StentX,Europe,8/31/2022,744,705312
+StentX,North America,9/30/2022,569,618503
+StentX,Europe,10/31/2022,589,632586
+StentX,Latin America,11/30/2022,763,727902
+StentX,North America,12/31/2022,530,548020
+StentX,Latin America,1/31/2023,566,663918
+StentX,Asia-Pacific,2/28/2023,715,652795
+StentX,North America,3/31/2023,664,632128
+StentX,North America,4/30/2023,491,571033
+StentX,North America,5/31/2023,605,592900
+StentX,Europe,6/30/2023,759,683859
+StentX,Europe,7/31/2023,453,455265
+StentX,Europe,8/31/2023,590,659030
+StentX,Asia-Pacific,9/30/2023,601,702569
+StentX,Europe,10/31/2023,670,746380
+StentX,Asia-Pacific,11/30/2023,589,703855
+StentX,Europe,12/31/2023,636,605472
+StentX,Europe,1/31/2024,616,709016
+StentX,Asia-Pacific,2/29/2024,440,464640
+StentX,Asia-Pacific,3/31/2024,464,421312
+StentX,Asia-Pacific,4/30/2024,535,514670
+StentX,Asia-Pacific,5/31/2024,480,509760
+StentX,Latin America,6/30/2024,778,902480
+StentX,Asia-Pacific,7/31/2024,440,407880
+StentX,North America,8/31/2024,727,848409
+StentX,North America,9/30/2024,447,429567
+StentX,Europe,10/31/2024,498,533358
+StentX,North America,11/30/2024,434,488684
+StentX,Asia-Pacific,12/31/2024,530,612680
+PacemakerY,North America,1/31/2022,291,1708170
+PacemakerY,North America,2/28/2022,164,1128484
+PacemakerY,Europe,3/31/2022,212,1242956
+PacemakerY,Europe,4/30/2022,201,1210020
+PacemakerY,North America,5/31/2022,292,1617680
+PacemakerY,Asia-Pacific,6/30/2022,220,1478840
+PacemakerY,Europe,7/31/2022,177,1349625
+PacemakerY,Europe,8/31/2022,211,1623223
+PacemakerY,Asia-Pacific,9/30/2022,257,1635291
+PacemakerY,Asia-Pacific,10/31/2022,224,1492512
+PacemakerY,North America,11/30/2022,241,1565536
+PacemakerY,Europe,12/31/2022,278,1779200
+PacemakerY,North America,1/31/2023,270,2072250
+PacemakerY,Europe,2/28/2023,152,867768
+PacemakerY,North America,3/31/2023,286,1520662
+PacemakerY,North America,4/30/2023,200,1251400
+PacemakerY,Europe,5/31/2023,208,1379248
+PacemakerY,Latin America,6/30/2023,262,1795486
+PacemakerY,North America,7/31/2023,201,1264491
+PacemakerY,North America,8/31/2023,279,1851444
+PacemakerY,Europe,9/30/2023,230,1310540
+PacemakerY,North America,10/31/2023,279,2027493
+PacemakerY,North America,11/30/2023,278,1851758
+PacemakerY,North America,12/31/2023,217,1128834
+PacemakerY,Asia-Pacific,1/31/2024,294,1695204
+PacemakerY,Latin America,2/29/2024,218,1728958
+PacemakerY,Asia-Pacific,3/31/2024,288,2246112
+PacemakerY,North America,4/30/2024,273,1415778
+PacemakerY,Europe,5/31/2024,242,1644148
+PacemakerY,Europe,6/30/2024,296,1885224
+PacemakerY,North America,7/31/2024,296,2341656
+PacemakerY,Latin America,8/31/2024,277,2104646
+PacemakerY,North America,9/30/2024,278,1890956
+PacemakerY,North America,10/31/2024,191,1267094
+PacemakerY,Latin America,11/30/2024,293,2166149
+PacemakerY,North America,12/31/2024,209,1228920
+OrthoKnee,Asia-Pacific,1/31/2022,297,669141
+OrthoKnee,Europe,2/28/2022,286,617474
+OrthoKnee,North America,3/31/2022,258,575856
+OrthoKnee,Asia-Pacific,4/30/2022,297,655479
+OrthoKnee,Asia-Pacific,5/31/2022,401,823253
+OrthoKnee,North America,6/30/2022,401,1053427
+OrthoKnee,Asia-Pacific,7/31/2022,449,1086131
+OrthoKnee,North America,8/31/2022,333,750249
+OrthoKnee,Latin America,9/30/2022,466,977668
+OrthoKnee,North America,10/31/2022,395,1143525
+OrthoKnee,Europe,11/30/2022,443,1249703
+OrthoKnee,North America,12/31/2022,438,1173840
+OrthoKnee,Europe,1/31/2023,317,887600
+OrthoKnee,North America,2/28/2023,297,865755
+OrthoKnee,Asia-Pacific,3/31/2023,385,821590
+OrthoKnee,Europe,4/30/2023,377,766064
+OrthoKnee,Europe,5/31/2023,436,1256552
+OrthoKnee,Europe,6/30/2023,271,744979
+OrthoKnee,Europe,7/31/2023,479,1132356
+OrthoKnee,Europe,8/31/2023,257,586474
+OrthoKnee,Europe,9/30/2023,270,755190
+OrthoKnee,Asia-Pacific,10/31/2023,360,1065240
+OrthoKnee,North America,11/30/2023,310,872650
+OrthoKnee,Europe,12/31/2023,284,622244
+OrthoKnee,Latin America,1/31/2024,266,577486
+OrthoKnee,Latin America,2/29/2024,470,961150
+OrthoKnee,North America,3/31/2024,348,1006068
+OrthoKnee,Europe,4/30/2024,273,641004
+OrthoKnee,Latin America,5/31/2024,430,1120580
+OrthoKnee,North America,6/30/2024,474,1002510
+OrthoKnee,Asia-Pacific,7/31/2024,462,1352274
+OrthoKnee,North America,8/31/2024,316,672132
+OrthoKnee,Asia-Pacific,9/30/2024,483,1320522
+OrthoKnee,North America,10/31/2024,316,907236
+OrthoKnee,Asia-Pacific,11/30/2024,363,830181
+OrthoKnee,North America,12/31/2024,400,1184400
+HeartValvePro,Asia-Pacific,1/31/2022,81,630504
+HeartValvePro,North America,2/28/2022,88,637560
+HeartValvePro,Europe,3/31/2022,121,1186526
+HeartValvePro,Europe,4/30/2022,129,1021680
+HeartValvePro,North America,5/31/2022,139,1185531
+HeartValvePro,North America,6/30/2022,115,883660
+HeartValvePro,North America,7/31/2022,87,831633
+HeartValvePro,Asia-Pacific,8/31/2022,93,741303
+HeartValvePro,Europe,9/30/2022,94,762810
+HeartValvePro,Asia-Pacific,10/31/2022,111,1084914
+HeartValvePro,Latin America,11/30/2022,130,984620
+HeartValvePro,Asia-Pacific,12/31/2022,101,945461
+HeartValvePro,North America,1/31/2023,128,1115520
+HeartValvePro,Europe,2/28/2023,94,759238
+HeartValvePro,North America,3/31/2023,87,747765
+HeartValvePro,North America,4/30/2023,84,682584
+HeartValvePro,Europe,5/31/2023,126,1249164
+HeartValvePro,Latin America,6/30/2023,131,1271093
+HeartValvePro,Asia-Pacific,7/31/2023,109,946338
+HeartValvePro,Europe,8/31/2023,142,1251020
+HeartValvePro,North America,9/30/2023,134,1121446
+HeartValvePro,Europe,10/31/2023,141,1387158
+HeartValvePro,North America,11/30/2023,91,729092
+HeartValvePro,North America,12/31/2023,80,787920
+HeartValvePro,Latin America,1/31/2024,127,950849
+HeartValvePro,Asia-Pacific,2/29/2024,80,656960
+HeartValvePro,Europe,3/31/2024,142,1076360
+HeartValvePro,North America,4/30/2024,146,1044338
+HeartValvePro,North America,5/31/2024,136,1121048
+HeartValvePro,Europe,6/30/2024,141,1050732
+HeartValvePro,Europe,7/31/2024,127,1192276
+HeartValvePro,Europe,8/31/2024,112,980784
+HeartValvePro,Europe,9/30/2024,89,781509
+HeartValvePro,Latin America,10/31/2024,113,1108417
+HeartValvePro,Asia-Pacific,11/30/2024,80,641200
+HeartValvePro,Latin America,12/31/2024,83,816637
+NeuroStim,Asia-Pacific,1/31/2022,51,484296
+NeuroStim,Europe,2/28/2022,81,797931
+NeuroStim,North America,3/31/2022,99,1131273
+NeuroStim,Europe,4/30/2022,92,978512
+NeuroStim,Asia-Pacific,5/31/2022,50,522000
+NeuroStim,North America,6/30/2022,92,854128
+NeuroStim,Europe,7/31/2022,80,923680
+NeuroStim,Asia-Pacific,8/31/2022,72,856512
+NeuroStim,North America,9/30/2022,78,828750
+NeuroStim,Asia-Pacific,10/31/2022,90,884250
+NeuroStim,North America,11/30/2022,94,884728
+NeuroStim,Europe,12/31/2022,74,873792
+NeuroStim,Europe,1/31/2023,86,989344
+NeuroStim,Europe,2/28/2023,84,850248
+NeuroStim,Asia-Pacific,3/31/2023,67,670536
+NeuroStim,Latin America,4/30/2023,73,854830
+NeuroStim,Asia-Pacific,5/31/2023,86,907128
+NeuroStim,North America,6/30/2023,84,829248
+NeuroStim,Europe,7/31/2023,98,1088682
+NeuroStim,North America,8/31/2023,74,767010
+NeuroStim,North America,9/30/2023,68,763232
+NeuroStim,North America,10/31/2023,90,816750
+NeuroStim,Asia-Pacific,11/30/2023,77,748209
+NeuroStim,North America,12/31/2023,68,706520
+NeuroStim,North America,1/31/2024,54,507330
+NeuroStim,Asia-Pacific,2/29/2024,70,711690
+NeuroStim,Latin America,3/31/2024,94,946110
+NeuroStim,Europe,4/30/2024,63,606879
+NeuroStim,North America,5/31/2024,72,700704
+NeuroStim,North America,6/30/2024,67,653250
+NeuroStim,Europe,7/31/2024,59,587227
+NeuroStim,Europe,8/31/2024,87,917154
+NeuroStim,North America,9/30/2024,89,998313
+NeuroStim,North America,10/31/2024,76,887756
+NeuroStim,Latin America,11/30/2024,78,814710
+NeuroStim,North America,12/31/2024,97,1007636
